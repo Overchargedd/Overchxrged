@@ -1,1 +1,2 @@
-Hello, I like to make stuff in roblox ig.
+Hello, I like to make stuff.
+Currently coding in Lua, Luau, Python and CSS. Working on C#
